@@ -1,5 +1,5 @@
 {
-  "name": "react-context-state",
+  "name": "react-lite-context",
   "version": "0.1.0",
   "type": "module",
   "main": "./dist/index.cjs",

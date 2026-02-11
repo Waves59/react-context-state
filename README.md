@@ -1,11 +1,11 @@
-# react-context-state
+# react-lite-context
 
 A lightweight, type-safe React state management library built on top of Context API. Create fully-typed providers with state, actions, and derived states in a single function call.
 
 ## Installation
 
 ```bash
-npm install react-context-state
+npm install react-lite-context
 ```
 
 > **Peer dependency:** React >= 18
@@ -13,7 +13,7 @@ npm install react-context-state
 ## Quick Start
 
 ```tsx
-import { createContextState } from "react-context-state";
+import { createContextState } from "react-lite-context";
 
 const Counter = createContextState({
   initialState: { count: 0 },
